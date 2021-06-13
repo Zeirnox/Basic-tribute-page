@@ -1,0 +1,32 @@
+#title {
+    font-size: 72px;
+    background-color: beige;
+    text-align: center;
+}
+#main {
+    background-color: aqua;
+}
+#image-div {
+    background-color: red;
+    width: auto;
+    padding: 5px;
+}
+#image {
+    width: 100%;
+    margin-top: 100px;
+    max-width: 480px;
+    display: block;
+    margin: auto;
+}
+#img-caption {
+    font-size: 36px;
+    text-align: center;
+}
+#tribute-info {
+    background-color: lavenderblush;
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    padding: 10px;
+    margin: 10px;
+    gap: 25px;
+}
